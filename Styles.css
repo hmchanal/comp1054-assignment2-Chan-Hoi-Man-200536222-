@@ -1,0 +1,57 @@
+
+      body {
+        background-color: chocolate;
+      }
+
+      
+      .title_song_ref {
+        
+        font-size: 14pt;
+       
+        font-family: Arial;
+        
+        font-weight: normal;
+        
+        color: khaki;
+        }
+
+      .album_ref {
+        font-size: 12pt;
+        font-family: Arial;
+        font-weight: normal;
+        color: khaki;
+      }
+
+      .artist_ref {
+        font-size: 14pt;
+        font-family: Arial;
+     
+        font-weight: bold;
+        color: moccasin;
+
+      }
+
+
+      
+      .verse_ref {
+        font-size: 14pt;
+        font-family: 'Trebuchet MS';
+        font-weight: bold;
+        color: gold;
+        margin-left: 2cm;
+        margin-right: 2cm;
+      }
+
+      .chorus_ref {
+        font-size: 14pt;
+        font-family: 'Montserrat Alternates', 'sans-serif';
+        font-weight: bold;
+    
+        font-style: italic;
+        color: gold;
+       
+        margin-left: 4cm;
+        margin-right: 4cm;
+      }
+
+  
